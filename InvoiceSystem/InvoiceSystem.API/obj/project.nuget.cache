@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIDO0xsfuhg3n3XTRUioY+3EyXYE7VuPWlkGRgoDyfv8XBxEB8Yl49edmHIXY3oPZkE7agYTM3+AUSO8XryRGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matas_valgo\\Desktop\\DARBAS\\kiti darbai\\Present-Connection-assignment\\InvoiceSystem\\InvoiceSystem.API\\InvoiceSystem.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matas_valgo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
